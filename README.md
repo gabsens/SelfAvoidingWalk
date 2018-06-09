@@ -1,7 +1,11 @@
 # Spring 2018 Monte Carlo project at ENSAE
 
+
 This repository includes the code, report and slides for the final project of the course *Simulation and Monte Carlo*.
 I was tasked with simulating self-avoiding random walks. The report starts with a quick survey on the properties of such walks, and then confronts rejection sampling, weighted importance sampling and the pivot algorithm. All the simulations were run in the 2-dimensional integer lattice, although the methods adapt readily to higher dimensions.
+
+<p align="center">
+  <img src="https://i.imgur.com/xJ2I5fb.png" width="350px"/></p>
 
 ## Files description
 * `SAW.ipynb` contains all the explanations, results and code (in English)
